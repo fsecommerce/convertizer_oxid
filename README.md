@@ -1,7 +1,8 @@
 <h2>Convertizer Oxid SkutoBasket (only for OXID V 4.9 or higher) </h2>
 
-- this module allows to put items to cart from external URL if article number is provided
+- this module allows to put items to cart from external URL if article number is provided and enables conversion tracking
 - put this module in your oxid module folder and activate from backend
+- insert trackingnumber and activate tracking
 
 <h2> Please note </h2>
 
